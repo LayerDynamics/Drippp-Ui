@@ -1,6 +1,9 @@
 # Component Library
 ----
-Dri-props interface - default props - prop types validation === Drippp-ui
+
+
+
+Dynamic reactive intuitive props interface - default props - prop types validation = Drippp-ui
 
 
 -------
