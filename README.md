@@ -2,6 +2,8 @@
 ----
 Dri-props interface - default props - prop types validation === Drippp-ui
 
+
+-------
 ## Design Principles
 ------
 <ul>
@@ -28,7 +30,7 @@ Dri-props interface - default props - prop types validation === Drippp-ui
 	</li>
 </ul>
 
-
+-----
 ## Color Guide
 -----
 
@@ -56,24 +58,23 @@ Dri-props interface - default props - prop types validation === Drippp-ui
 `#F57D1F``#FD7014``#E900FF``#F05454`
 `#EBF400``#FFC600``#BE3030``#32E0C4``
 
-
+------
 ## Fonts
 ------
-Hack-web = "./assets/Hack-web/fonts/."
-Inter-4.0 = "./assets/Inter-4.0/web/."
-Geist.mono="./assets/Geist.Mono/."
+Hack-web = "./assets/Hack-web/fonts/." </br>
+Inter-4.0 = "./assets/Inter-4.0/web/." </br>
+Geist.mono="./assets/Geist.Mono/."	</br>
 
+----
 ## Icon Specs
 ------
 size :
-Principles: {
-
-}
+Principles:
 
 
 
-
-#### Amazing Resources
+------
+#### Relevant Useful Resources
 -----
 
 <a href="https://dev.to/receter/how-to-create-a-react-component-library-using-vites-library-mode-4lma"> Dev Article </a>
@@ -102,3 +103,4 @@ color pallette generator
 
 <a href=""> link </a>
 
+------
